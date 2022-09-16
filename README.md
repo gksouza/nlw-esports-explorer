@@ -17,7 +17,7 @@
 ## 📚 Meu aprendizado
 
 Através do NLW adquiri maiores e fascinantes conhecimentos sobre o HTML e CSS.  
-Com uma didática leve e objetiva conheci brevemente sobre o Git e Gihub.   
+Com uma didática leve e objetiva conheci brevemente sobre o Git e Github.   
 
 ## 🤸‍♀️ Contato
 
